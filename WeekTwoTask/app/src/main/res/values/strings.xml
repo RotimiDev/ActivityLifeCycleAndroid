@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeekTwoTask</string>
+    <string name="fragments">Fragments</string>
+    <string name="orientation">Orientation</string>
+    <string name="lifecycle">Lifecycle</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stack_position">Stack Position</string>
+</resources>
